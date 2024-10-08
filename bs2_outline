@@ -1,0 +1,40 @@
+# Primer análisis (títulos 1962-2022)
+    I. Con el lenguaje de programación Python, escribí un script para obtener el nombre de lx autorx, el título y el año de publicación de todos los trabajos de titulación de la licenciatura en lengua y literaturas modernas inglesas hasta el 2022. Esto está en (https://github.com/diego-g-fonte/metadatos).
+    II. Con el lenguaje de programación R, grafiqué:
+        A. la cantidad de publicaciones por año.
+        B. la longitud promedio anual de los títulos de las publicaciones.
+        C. el porcentaje de tíulos con el caracter ":".
+        D. Esto está en (https://github.com/diego-g-fonte/analisis).
+
+# Segundo análisis (comprobación de hipótesis)
+    I. X Resumen rápido
+    II. X Preparación de los textos
+        A. X Metadatos
+            i.  X JSON
+            ii. X Cómo conseguí los metadatos
+	    B. X PDFs
+            i.  X Por qué conseguí los textos que conseguí
+            ii. X Cómo funciona el crawler / cómo usar el cralwer
+        C. X PDFs a texto
+        D. X El JSON final
+    III. Análisis: Todo mi análisis lo hice con el lenguaje R, inspirado sobre todo en el trabajo que hizo Matthew Jockers en su libro *Macroanalysis*, en específico los capítulos "Style", "Theme" y "Influence".
+        A. Estilo
+            i. X Cómo llegué a este método
+                a. X Primero creí que iba a ser buena idea ver las longitudes promedio anuales de los trabajos. [POR QUÉ AL FINAL NO]
+                b. X Leí a Jockers y le copié. 
+            ii. Descripción detallada del método
+                a. Qué es la estilometría
+                    1. Descripción
+                    2. Ejemplos
+                b. La gráfica
+                    1. La tabla
+                    2. Dist()
+        B. Tema
+            i. Cómo llegué a este método
+                a. Primero intenté sacar los temas con las palabras clave, pero eso no tiene sentido. [POR QUÉ NO TIENE SENTIDO]
+                b. Luego aprendí a usar MALLET. (Quita las stopwords)
+                	1. Explicar cómo funciona MALLET, como pueda. Dar "read more".
+                	2. Creí que tal vez sería buena idea graficar los temas a través del tiempo, pero no logré sacar información valiosa haciendo eso [GRÁFICA DE TODOS LOS TEMAS. PERSEGUIRLO O DEJARLO COMO UNA SUGERENCIA PARA FUTURAS INVESTIGACIONES].
+                	3. Hice muchos experimentos moviendo el número de temas que generaba. Una curiosidad es que cuando se acotan los temas a dos, tres o cuatro, reconoce la diferencia entre una tesis/tesina, una traducción y un trabajo sobre didáctica (cuando son sólo dos, diferencia entre tesis/tesina y el resto de trabajos). [EVIDENCIA] Decidí no perseguir esto [CHANCE DECIDO SÍ PERSEGUIRLO, O LO DEJO COMO UNA SUGERENCIA PARA FUTURAS INVESTIGACIONES]
+                c. Al final decidí hacer como le hice en el estilo y usar la tabla que saca MALLET [FOTO DE LA TABLA].
+            ii. Descripción detallada del método
