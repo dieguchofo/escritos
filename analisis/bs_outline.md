@@ -14,5 +14,15 @@ II. Estilo: Hipótesis respecto a por qué se homogeneiza
         2. Seminarios de titulación + asesorxs formularios [NO INSULTAR A LXS PROFES]
         3. Publish or perish (raúl rodríguez freire) [ESTO YA NO TIENE SENTIDO CREO]
         4. Tendencia mundial a producir más [MEDIR QUÉ TAN ACÁ ME QUIERO PONER] [ESTO TAMPOCO]
-    E. La verdad no tengo idea y hacen falta investigaciones más detalladas sobre el porqué.
+    X E. La verdad no tengo idea y hacen falta investigaciones más detalladas sobre el porqué.
 III. Tema
+    A. Mis sentimientos iniciales respecto al tema
+    -. Correlación con el estilo
+        1. Spearman: 0.6635707
+        2. 2011-2017: 0.75
+    -. Correlación con la cantidad de trabajos publicados
+        1. Spearman: -0.06950301
+        2. 2011-2017: -0.7092081
+    B. Relación tema-estilo
+    C. Aclarar que son literalmente grupos de palabras distintios, por lo que no es posible estar cuantificando dos veces lo mismo. Sí es una relación entre dos cosas distintas.
+    -. Temas más populares en los puntos de inflección
