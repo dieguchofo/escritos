@@ -16,13 +16,14 @@ II. Estilo: Hipótesis respecto a por qué se homogeneiza
         4. Tendencia mundial a producir más [MEDIR QUÉ TAN ACÁ ME QUIERO PONER] [ESTO TAMPOCO]
     X E. La verdad no tengo idea y hacen falta investigaciones más detalladas sobre el porqué.
 III. Tema
-    A. Mis sentimientos iniciales respecto al tema
-    -. Correlación con el estilo
-        1. Spearman: 0.6635707
-        2. 2011-2017: 0.75
-    -. Correlación con la cantidad de trabajos publicados
-        1. Spearman: -0.06950301
-        2. 2011-2017: -0.7092081
-    B. Relación tema-estilo
-    C. Aclarar que son literalmente grupos de palabras distintios, por lo que no es posible estar cuantificando dos veces lo mismo. Sí es una relación entre dos cosas distintas.
-    -. Temas más populares en los puntos de inflección
+    X A. Mis sentimientos iniciales respecto al tema
+    X B. Correlaciones
+        1. . Correlación con el estilo
+            a. Spearman: 0.6635707
+            b. 2011-2017: 0.75
+        2. Correlación con la cantidad de trabajos publicados
+            a. Spearman: -0.06950301
+            b. 2011-2017: -0.7092081
+    C. Relación tema-estilo
+    D. Aclarar que son literalmente grupos de palabras distintios, por lo que no es posible estar cuantificando dos veces lo mismo. Sí es una relación entre dos cosas distintas.
+    -. Temas más populares en los puntos de inflección [CREO QUE YA NO QUIERO HACER ESTO]
