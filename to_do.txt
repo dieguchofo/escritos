@@ -1,0 +1,62 @@
+- bs/outline
+	- capítulo 1
+		X intro
+		- outro
+		- bibliografía
+			X El género policíaco y el gótico dentro
+			X cristian miguel
+			X Metanarrativas y el emtramado [sic] en Enduring Love de Ian Mcewan
+			X The song and the water: el mar, la narración y la vida en The Waves
+			- Computational Methods in Authorship Attribution", de Moshe Koppel, Jonathan Schler y Slomo Argamon
+			X Propuesta de lecciones-muestra para la enseñanza de la comprensión
+		- corregir la sección de MALLET con 2, 3 y 4 temas y el "resto".
+	- capítulo 2
+		/ intro
+		- outro: sólo un párrafo cursi de que quiero que mi trabajo sea una pausa y que los datos y las humanidades hacen buen combo y que el amor y bla.
+		- CORCHETES
+			- que ordenarlo por fechas apunta a los gustos de los profes
+			- incentivos económicos
+			X cita de jockers argumentando que para calcular temas son mejores las aglomeraciones que las palabras de contenido individuales.
+
+X mandarle correo a kundalini preguntando los incentivos de que se titule gente
+
+
+falta: las dos outros y la intro del 2. Esa última bibliografía, los incentivos de kundalini, aclarar lo de quienes abren las puertas y quienes las cruzan, aclarar lo de "el resto". Luego, juntar ambos capítulos en un mismo documento y revisarlo otra vez para ya quitar todos los corchetes y comentarios. Y al final ya las fotos (hacer un documento con los placeholders y otro con las fotos).
+
+
+X outro capítulo 1
+X intro capítulo 2
+- incentivos kundalini
+- quienes abren las puertas y las cruzan
+- "el resto"
+- juntar los capítulos y releerlos para quitar todos los comentarios y corchetes
+- outro capítulo 2
+
+- HASTA EL FINAL: Integrar las fotos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------
+X releer
+	X capítulo 1
+	X capítulo 2
+	X segunda_ronda.md
+X acomodar segunda ronda
+	X El estilo y el tema son uno mismo
+	X Burocracia e intelectualidad
+
+
