@@ -1,0 +1,123 @@
+CONCLUSIÓN:
+	* escritura académica
+		1. rodríguez freire
+		2. Tuhiwai Smith*
+		3. Hayot
+	- conclusión final final
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONCLUSIÓN
+X Retomar
+	X hipótesis inicial
+	X cada capítulo
+	X resultados
+- debrayes
+	X Latour
+	* escritura académica
+		1. rodríguez freire
+		2. Tuhiwai Smith*
+		3. Hayot
+X retomar reflexiones: 
+	X p. 7	- información que perdí: la separación de los párrafos, la capitulación de los trabajos, qué texto es citado y qué texto es propio de lx autorx
+	X p. 11	- igual de información que perdí, y que mis resultados podrían haber sido más acertados si la hubiera tenido
+	X p. 20	- que los temas de MALLET no importan tanto en tanto a su tema cualitativo, sino en tanto al perfil de scores que MALLET le da a cada trabajo
+	X p. 21	- sobre las limitaciones de los métodos automatizados y la intervención humana en ellos. MALLET no es 100% comprensible, y mi scraper es muy amateur.
+- conclusión final final
+
+
+SEGUNDA LECTURA:
+- Repetir las gráficas
+- Repetir la hipótesis
+	- En la conclusión ya está, en el primer capítulo ya está. Creo que sólo falta una vez en el segundo capítulo y una en la intro
+- Ver si cuando digo "Colegio" no sería mejor decir "Departamento". Creo que quiero mantenerlo en la mayoría de las ocasiones, excepto cuando hablo de mis datos.
+
+- Adelantarme a las objeciones
+
+
+INTRO
+- Hipótesis de la que partí (creo que el hook que alguna vez escribí que decía "tengo el presentimiento de que el estilo se ha homogeneizado..." está chido)
+- Adelantar resultados
+- Edo. cuestión: Jockers, Moretti, Piper, *Ted Underwood
+	- También Hayot, Pruneda Senítes, rodríguez freire
+- Síntesis de la tesina
+	- capítulo 1
+	- capítulo 2
+	- conclusiones
+
+
+- Caveat sobre "Colegio" vs "Departamento" (y leer todas las instancias en las que sale "Colegio" y ver si no quiero poner "Departamento"
+- Addressear que son todos los trabajos, que no están divididos por análisis, traducción, didáctica etc.
+
+
+FEP 1
+	- título definitivo
+	- Resumen del trabajo
+	- Historial académico
+
+
+XXXXXXXXX
+
+
+X PRIMERO QUE NADA
+X Correcciones de David
+	X ortografía
+	X quitar espacios entre párrafos
+	X repetir hipótesis p. 11
+	X "sencillo" o "accesible" p. 14
+	X "culpa" p. 24
+	X aclaración p. 27
+	X oración incomprensible p. 38
+	X nota al pie p. 19 (debraye sobre que se puede usar mi método de distancias promedio para datos completamente diferentes, como geológicos o yo qué sé)
+	X nota al pie p. 26 (FEP1)
+	X párrafo de conclusión del último capítulo
+	X apéndice con la gráfica de los trabajos publicados anualmente 1962
+
+
+
+
+
+---------
+
+Cosas que quiero decir en la introducción:
+- Toda mi investigación gira en torno a dos gráficas
+- Un overview de ambos capítulos
+- Una manera super super sencilla de explicar todo lo que hice. Como un elevator pitch.
+- Que podría haber presentado los resultados sin más. pero que decidí también narrar el proceso de ir dando trompicones para dar una idea de cómo es que se llega a estos resultados. Quiero humanizar los números.
+
+En la conclusión:
+- Repaso de las preocupaciones que me llevaron a hacer la investigación y las que surgieron durante ella.
